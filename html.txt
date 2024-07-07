@@ -1,0 +1,4 @@
+- linguagem de marcação
+- p estruturar páginas web (criando elemento de texto, inserindo imagens, listas, forms)
+- é o esqueleto de qualquer pág web
+- não é preciso um software pra compilar html, basta abrir um arquivo .html no navegador
